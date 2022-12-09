@@ -1,4 +1,4 @@
-# FullStack TodoList with React, React Native and NodejS.
+# FullStack TodoList with React, React Native and NodeJS.
 
 Please use your IPv4 address in client and mobileclient folder.
 
